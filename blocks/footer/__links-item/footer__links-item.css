@@ -1,0 +1,7 @@
+.footer__links-item {
+  box-sizing: border-box;
+}
+
+.footer__links-item:last-child {
+  padding: 0;
+}
